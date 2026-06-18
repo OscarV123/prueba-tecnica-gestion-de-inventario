@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+.angular/
+
+# Java
+target/
+.gradle/
+.idea/
+*.class
+
+# Varios
+.DS_Store
+*.log
