@@ -1,6 +1,6 @@
 # Sistema de Gestión de Inventario - Prueba Técnica
 
-Este proyecto es una solución básica Full-Stack que hice en 6 horas para la gestión de inventarios, que incluye operaciones CRUD completas y un registro de transacciones. 
+Este proyecto es una solución básica Full-Stack que hice en 9 horas para la gestión de inventarios, que incluye operaciones CRUD completas y un registro de transacciones. 
 
 ## 🛠️ Tecnologías Utilizadas
 * **Backend:** Java 17, Spring Boot, Spring Data JPA, Hibernate.
